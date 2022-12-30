@@ -1,0 +1,23 @@
+.sobre__descricao{
+    color: #8C8888;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+.valor{
+    font-size: 40px;
+    color:#8D0606;
+}
+@media screen and (min-width:0){
+    .sobre__descricao{
+        font-size: 18px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (min-width:768px){
+     .sobre__descricao{
+        font-size: 28px;
+    } 
+}

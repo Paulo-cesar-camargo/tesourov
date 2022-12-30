@@ -1,0 +1,19 @@
+.sobre__titulo{
+    text-align: center;
+    color: #8D0606;
+    font-weight: 400;
+    padding: 1em 0 0;
+}
+
+@media screen and (min-width:0){
+    .sobre__titulo{
+        font-size: 35px;
+        margin: 0 20px 0 20px;
+    }
+}
+
+@media screen and (min-width:768px){
+      .sobre__titulo{
+        font-size: 50px;
+    }
+}

@@ -1,0 +1,10 @@
+.pessoa__nome{
+    font-size: 32px;
+    font-family: Pacifico,cursive;
+    color: #8D0606;
+    padding: 0.5em;
+
+}
+.pessoa__nome:hover{
+    color: #086408;
+}

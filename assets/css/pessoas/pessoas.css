@@ -1,0 +1,22 @@
+.pessoas{
+    display: flex;
+    flex-direction: block;
+    
+}
+.imgmarcela{
+    border-radius: 50%;
+}
+.imgmarcela:hover{
+    border-radius: 30%;
+}
+@media  screen and (min-width :0) {
+  .pessoas{
+      flex-direction: column;
+      margin-right: 6em;
+  }
+}
+@media  screen and (min-width :768px) {
+  .pessoas{
+      flex-direction: row;
+  }
+}

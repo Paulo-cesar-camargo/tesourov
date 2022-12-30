@@ -1,0 +1,26 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    font-family: Pacifico,cursive;
+}
+
+ul, li {
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    text-overflow: none;
+    color: #bdb1b1;
+
+}
+.email{
+    font-family: Pacifico,cursive;
+    color: #8D0606;
+}
+.contatos{
+    margin-left: 1em;
+}
